@@ -1,0 +1,42 @@
+.a{
+    border-radius: 5px 0 0 5px;
+}
+.b{
+    border-radius: 0 5px 5px 0 !important;
+}
+.c{
+    background: #4670b5 !important;
+}
+.list-group-item img{
+    width: 20px;
+    padding-right: 5px;
+}
+.box
+{
+    height: 350px;
+    overflow: hidden;
+}
+.box-c, .box img{
+    transition: 1s;
+}
+.box:hover .box-c{
+    transform: translateY(-30px);
+}
+.box:hover img{
+    transform: scale(1.2);
+}
+.logo{
+height: 50px;
+width: 200px;
+}
+.ap{
+    color: white;
+    font-size: 20px;
+}
+.log{
+    height: 50px;
+    width: 150px;
+}
+.fo{
+    background: #374447;
+}
